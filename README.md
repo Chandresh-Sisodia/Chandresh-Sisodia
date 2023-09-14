@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif">
 
-<p align="left"> <img src="https://i.pinimg.com/originals/6e/a8/c6/6ea8c68dfa924bc2e6a9abe3e473087a.gif" /> </p>
+
 
 - 🌱 I’m currently learning **Web Devlopment**
 

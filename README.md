@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web Devlopment, AI & Machine learning**
 
-- 💬 Ask me about **Python programming,C programing,HTML,CSS**
+- 💬 Ask me about **Python programming,C programing,Java programing,HTML,CSS**
 
 - 📫 How to reach me **sisodiachandresh@gmail.com**
 
